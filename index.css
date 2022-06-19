@@ -1,0 +1,10 @@
+dialog{
+    border: 2px solid;
+    border-color: green;
+}
+dialog::backdrop{
+    border: 0;
+    background-color: aqua;
+    opacity: .5;
+}
+
